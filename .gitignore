@@ -1,0 +1,6 @@
+.idea
+.env
+.env.*
+tds.iml
+node_modules
+dist
