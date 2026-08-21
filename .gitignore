@@ -2,7 +2,7 @@
 .DS_Store
 *.local
 *.log*
-_.env
+.env
 .env.*
 tds.iml
 
